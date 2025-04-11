@@ -7,7 +7,7 @@ const ProjectsSection = () => {
     {
       title: "Customer Retention Analysis",
       description: "Developed a comprehensive analysis tool to predict customer churn and identify retention strategies based on historical data.",
-      image: "/placeholder.svg",
+      image: "/lovable-uploads/customer_retention.jpg",
       tech: ["Python", "Power BI", "Scikit-learn"],
       highlights: [
         "Analyzed customer behavior patterns to identify key churn indicators",
@@ -20,7 +20,7 @@ const ProjectsSection = () => {
     {
       title: "Blinkit Website Revamp",
       description: "Led the backend redesign of a grocery delivery platform to enhance user experience and optimize data management.",
-      image: "/placeholder.svg",
+      image: "/lovable-uploads/blinkit.jpg",
       tech: ["Flask", "SQL", "HTML/CSS"],
       highlights: [
         "Implemented a robust authentication system with multiple user roles",
@@ -33,7 +33,7 @@ const ProjectsSection = () => {
     {
       title: "Restaurant Rating Analysis",
       description: "Created a data analysis solution to help restaurant owners understand customer preferences and improve service quality.",
-      image: "/placeholder.svg",
+      image: "/lovable-uploads/restaurant_review.jpg",
       tech: ["SQL", "Power BI", "Python"],
       highlights: [
         "Analyzed 50,000+ customer reviews to extract sentiment patterns",

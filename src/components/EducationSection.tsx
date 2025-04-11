@@ -9,7 +9,7 @@ const EducationSection = () => {
       duration: "Since 2022",
       description: "Currently pursuing a B.Tech in Computer Science and Engineering with a focus on data science and web development.",
       gpa: "CGPA: 7.06",
-      logo: "/lovable-uploads/5251f027-52d1-4ad8-b849-2c0b9eef1bb1.png"
+      logo: "/lovable-uploads/lpu.png"
     },
     {
       institution: "St. Antony's Public School",
@@ -17,7 +17,7 @@ const EducationSection = () => {
       duration: "2022",
       description: "Completed higher secondary education with a focus on science and mathematics.",
       gpa: "Percentage: 92.60%",
-      logo: "/lovable-uploads/ef3e2876-d845-4537-884a-4b7db8e07ee1.png"
+      logo: "/lovable-uploads/school.png"
     },
     {
       institution: "Bhavans Vidya Mandir",
@@ -25,7 +25,7 @@ const EducationSection = () => {
       duration: "2020",
       description: "Completed secondary education with excellent academic performance.",
       gpa: "Percentage: 96.40%",
-      logo: "/lovable-uploads/200d5555-0b9c-4fc7-b516-7e864f216703.png"
+      logo: "/lovable-uploads/school2.png"
     }
   ];
 
@@ -59,7 +59,7 @@ const EducationSection = () => {
                     <img 
                       src={item.logo} 
                       alt={item.institution} 
-                      className="max-w-full max-h-full"
+                      className="max-w-full max-h-full rounded-full"
                     />
                   </div>
                   

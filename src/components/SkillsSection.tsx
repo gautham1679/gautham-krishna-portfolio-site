@@ -6,23 +6,23 @@ const SkillsSection = () => {
     languages: [
       {
         name: "Python",
-        image: "/lovable-uploads/e937efb5-be10-4a90-850d-c2aa1042cc14.png"
+        image: "/lovable-uploads/python.png"
       },
       {
         name: "Java",
-        image: "/lovable-uploads/f9a6e0d9-93d5-40ac-97bd-44d47485eb1c.png"
+        image: "/lovable-uploads/java.png"
       },
       {
         name: "HTML/CSS",
-        image: "/lovable-uploads/b3deea52-c3d0-4ca4-9b24-70c87cea713e.png"
+        image: "/lovable-uploads/htmlcss.png"
       },
       {
         name: "JavaScript",
-        image: "/lovable-uploads/733c77c1-58e3-4518-b9aa-069c7efa91b6.png"
+        image: "/lovable-uploads/javascript.png"
       },
       {
         name: "SQL",
-        image: "/lovable-uploads/16e4fba2-ec98-4915-bcd4-25d959e029fa.png"
+        image: "/lovable-uploads/mysql.png"
       }
     ],
     tools: [
